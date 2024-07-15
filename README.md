@@ -1,3 +1,12 @@
+### React Application for Spring Boot Backend
+
+This React application serves as the frontend for a Spring Boot backend. It includes:
+
+- **Login Page:** Allows users to log in as Admin or User.
+- **Signup Page:** Provides registration functionality.
+- **Admin Dashboard:** Features include adding, updating, and deleting employee details.
+- **User Dashboard:** Allows viewing employee records.
+
 ### 1. Home Page
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e84a53ab-f3c5-45b6-94df-a492a84339d4">
 
