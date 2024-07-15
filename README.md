@@ -1,8 +1,8 @@
 ### 1. Home Page
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d211c852-06d8-4cf9-8bb0-82d1d1bbd344">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e84a53ab-f3c5-45b6-94df-a492a84339d4">
 
 ### 2. Signup Page
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/7362f500-02df-40a2-b173-2d8331406674">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3ba9f1f6-761a-4297-b64b-a15cc9ff6dec">
 
 ### 3. Signin Page
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/7d159493-6f08-47ec-94a3-e48bd73ac41e">
